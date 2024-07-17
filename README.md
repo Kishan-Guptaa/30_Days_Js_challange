@@ -5,4 +5,4 @@
 
 | Days | Link|
 | ------------- | ------------- |
-| Day_01| [Variables and Data Types]() |
+| Day_01| [Variables and Data Types](https://github.com/Kishan-Guptaa/30_Days_Js_challange/tree/main/Day_01_Variables_and_Datatypes) |
