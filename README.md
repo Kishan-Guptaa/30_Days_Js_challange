@@ -6,3 +6,4 @@
 | Days | Link|
 | ------------- | ------------- |
 | Day_01| [Variables and Data Types](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_01_Variables_and_Datatypes/index1.js) |
+| Day_02| [Operators](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_2_Operators/index2.js)|
