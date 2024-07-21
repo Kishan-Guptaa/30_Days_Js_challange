@@ -9,3 +9,4 @@
 | Day_02| [Operators](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_2_Operators/index2.js)|
 | Day_03| [Control Structure](https://github.com/Kishan-Guptaa/30_Days_Js_challange/tree/main/Day_03_Control%20Structures)|
 | Day_04| [loop](https://github.com/Kishan-Guptaa/30_Days_Js_challange/tree/main/Day_04_Loops)|
+| Day_05| [Function](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_05_Function/index5.js)|
