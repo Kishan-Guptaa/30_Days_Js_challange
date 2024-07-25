@@ -13,3 +13,4 @@
 | Day_06| [Array](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_06_Array/index6.js)|
 | Day_07| [Object](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_07_OBJECTs/index7.js)|
 | Day_08| [ES6+ Features](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_07_OBJECTs/index7.js)|)|
+| DAy_09| [DOM Manipulation](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_09_DOM-Manipulation/index9.js)|
