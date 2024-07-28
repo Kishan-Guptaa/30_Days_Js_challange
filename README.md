@@ -2,6 +2,7 @@
 ## Instructor : Hitesh Choudhary sir
 - Website :  [Chaiaurcode](https://chaicode.com/)
 - Connect with me : [LinkedIn](https://www.linkedin.com/in/kishangupta09/)
+- Connect with me : [Instagram](https://www.instagram.com/kishan_n_09/)
 
 | Days | Link|
 | ------------- | ------------- |
