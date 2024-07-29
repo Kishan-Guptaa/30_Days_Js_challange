@@ -19,4 +19,5 @@
 | Day_11|[Promise and async/Await](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_11_Promise%20and%20Async%20%7C%20Await/index11.js)|
 | Day_12|[Error Handling](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_12_Error_Handling/index12.js)|
 | Day_13|[Modules](https://github.com/Kishan-Guptaa/30_Days_Js_challange/tree/main/Day_13_Modules)|
+| Day_14|[Classes](https://github.com/Kishan-Guptaa/30_Days_Js_challange/tree/main/Day_13_Modules)|
 
