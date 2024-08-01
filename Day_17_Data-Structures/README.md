@@ -1,4 +1,4 @@
-# Day 17: Data Structures
+# Day 17: Data Structures ☕
 ## Tasks/Activities:
 ## Activity 1: Linked List
 
