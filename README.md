@@ -23,5 +23,5 @@
 | Day_15|[Closures](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_15_Closures/index15.js)|
 | Day_16|[Recursion](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_16_Recursion/index16.js)|
 | Day_17|[Data Structures](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_17_Data-Structures/index17.js)|
-
+| Day_18|[Algorithms](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_17_Data-Structures/index17.js)|
 
