@@ -24,5 +24,5 @@
 | Day_16|[Recursion 🔄](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_16_Recursion/index16.js)|
 | Day_17|[Data Structures  📊](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_17_Data-Structures/index17.js)|
 | Day_18|[Algorithms 🧩](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_18_Algorithms/index18.js)|
-| Day_18|[Regular Expression 🔍](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_19_Regular%20Expression/index19.js)|
+| Day_19|[Regular Expression 🔍](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_19_Regular%20Expression/index19.js)|
 
