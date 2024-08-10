@@ -27,3 +27,8 @@
 | Day_19|[Regular Expression 🔍](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_19_Regular%20Expression/index19.js)|
 | Day_20|[LocalStorage and SessionStorage 💾](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_20_Local_and_session_Storage/index20.js)|
 | Day_21|[Leetcode_Easy 🟢](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_21_leetcode_easy/index21.js)|
+| Day_22|[Leetcode_Medium 🟡]()|
+| Day_23|[Leetcode_Hard 🔴]()|
+
+
+
