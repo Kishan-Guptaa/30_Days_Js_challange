@@ -1,0 +1,166 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    opacity: 0;
+    animation: fadeIn 2s forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.search input {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 70%;
+    outline: none;
+    transition: border-color 0.4s ease;
+}
+
+.search input:focus {
+    border-color: #007BFF;
+}
+
+.search button {
+    border: none;
+    background-color: #007BFF;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.search button:hover {
+    background-color: #0056b3;
+    transform: scale(1.1);
+}
+
+.search button img {
+    vertical-align: middle;
+}
+
+.error {
+    display: none;
+    color: #e74c3c;
+    font-size: 16px;
+}
+
+.weather {
+    display: none;
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+}
+
+.weather-icon {
+    max-width: 100%;
+    height: auto;
+}
+
+.weather-name {
+    font-size: 18px;
+    color: #333;
+}
+
+.temp {
+    font-size: 36px;
+    color: #007BFF;
+    margin: 10px 0;
+}
+
+.city {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Forecast Section */
+.forecast {
+    display: none;
+    margin-top: 20px;
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+}
+
+.forecast h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.forecast-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.forecast-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    width: 60px;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: slideIn 0.5s forwards;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.forecast-item h3 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.forecast-icon {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.forecast-item p {
+    font-size: 12px;
+    color: #333;
+}
