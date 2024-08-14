@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie search App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main">
+        <h1>Search Your Movie</h1>
+        <div id="movie-search">
+            <div id="input">
+                <input type="text" placeholder="Enter Movie Name" id="text">
+            </div>
+            <div id="search-icon">
+                <img src="search.png" alt="search-icon" id="icon">
+            </div>
+        </div>
+    </div>
+    <!-- after click search Icon -->
+     <div class="card">
+        <img src="https://m.media-amazon.com/images/M/MV5BYWVlMjVhZWYtNWViNC00ODFkLTk1MmItYjU1MDY5ZDdhMTU3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg" alt="Movie Poster" class="card-image">
+        <div class="card-content">
+            <div class="card-details">
+                <h2 class="card-title" id="movie-title">Movie Title</h2>
+                <p class="card-info" id="movie-info">-</p>
+            </div>
+            <div class="card-details">
+                <h2 class="card-year" id="movie-year">Release Year</h2>
+                <p class="card-info" id="additional-info">-</p>
+            </div>
+            <!-- after more info -->
+
+            <div class="aftermoreInfo">
+                <div class="card-details">
+                    <h2 class="card-plot" id="movie-plot">Plot</h2>
+                    <p class="card-info" id="plot-info">-</p>
+                </div>
+                <div class="card-details">
+                    <h2 class="card-director" id="movie-director">Director</h2>
+                    <p class="card-info" id="director-info">-</p>
+                </div>
+                <div class="card-details">
+                    <h2 class="card-actors" id="movie-actors">Actors</h2>
+                    <p class="card-info" id="actors-info">-</p>
+                </div>
+            </div>
+            <button class="more-info-button">More Info</button>
+        </div>
+
+     </div>
+     <script src="script.js"></script>
+</body>
+</html>
