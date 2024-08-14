@@ -30,6 +30,6 @@
 | Day_22|[Leetcode_Medium 🟡](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_22_Leetcode_medim/index22.js)|
 | Day_23|[Leetcode_Hard 🔴](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_23_Leetcode_Hard/index23.js)|
 | Day_24|[Project_01](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_24_Project_01/index24.js)|
-| Day_25|[Project_02]()|
+| Day_25|[Project_02](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_25_project_02/script.js)|
 
 
