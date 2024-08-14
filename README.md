@@ -29,6 +29,7 @@
 | Day_21|[Leetcode_Easy 🟢](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_21_leetcode_easy/index21.js)|
 | Day_22|[Leetcode_Medium 🟡](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_22_Leetcode_medim/index22.js)|
 | Day_23|[Leetcode_Hard 🔴](https://github.com/Kishan-Guptaa/30_Days_Js_challange/blob/main/Day_23_Leetcode_Hard/index23.js)|
-
+| Day_24|[Project_01]()|
+| Day_25|[Project_02]()|
 
 
