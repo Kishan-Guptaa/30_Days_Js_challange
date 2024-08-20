@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Management Application</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img width="100" height="100" src="https://img.icons8.com/clouds/100/calendar--v2.png" alt="calendar"/>
+        </div>
+        <h1>Task Management Application</h1>
+    </nav>
+    <div class="container">
+        <div id="task-list" class="main"></div>
+        <div class="addbtn">
+            <button id="button-86" role="button">Enter</button>
+        </div>
+    </div>
+    
+    <div class="calendar-container">
+        <h2>Calendar</h2>
+        <div id="calendar"></div>
+    </div>
+
+    <!-- Modal for adding notes -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Add Note</h3>
+            <textarea id="note-content" placeholder="Add your note here..."></textarea>
+            <button id="save-note" class="modal-btn">Save Note</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
